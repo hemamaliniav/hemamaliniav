@@ -60,3 +60,13 @@
   Learning through programming, mathematical reasoning
   and hands-on experimentation 🌱
 </p>
+
+---
+
+## Technical foundations
+
+### Programming languages
+
+![C](https://img.shields.io/badge/Language-C-34483B?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB)
+![SQL](https://img.shields.io/badge/Database-SQL-34483B?style=flat)
